@@ -1,5 +1,8 @@
 import java.util.Scanner;
     public class ExamReport {
+
+        //Gracen Brown, September 1st, ExamReport Assignment
+
         public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
